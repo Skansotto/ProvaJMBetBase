@@ -1,0 +1,16 @@
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\bin\Debug\ClientBase.exe.config
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\bin\Debug\ClientBase.exe
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\bin\Debug\ClientBase.pdb
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.csproj.AssemblyReference.cache
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\MainWindow.g.cs
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\App.g.cs
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase_MarkupCompile.cache
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase_MarkupCompile.lref
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\MainWindow.baml
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.g.resources
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.Properties.Resources.resources
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.csproj.GenerateResource.cache
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.csproj.CoreCompileInputs.cache
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.exe
+C:\Users\skans\OneDrive\Desktop\ClientBase\ClientBase\obj\Debug\ClientBase.pdb
